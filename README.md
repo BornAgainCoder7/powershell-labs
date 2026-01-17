@@ -1,6 +1,6 @@
 PowerShell Labs
 
-This repo contains PowerShell scripts for basic IT, network diagnostics ,and cybersecurity.
+This repo contains PowerShell scripts for basic IT, network diagnostics, and cybersecurity.
 
 check-network.ps1  
 Runs a series of tests to check:
